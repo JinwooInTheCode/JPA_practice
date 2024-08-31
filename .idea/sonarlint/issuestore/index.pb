@@ -27,3 +27,5 @@ Q.idea/sonarlint/securityhotspotstore/3/8/3818751ba7a7e2bbfde51b6c3126a02f97f5a6
 Q.idea/sonarlint/securityhotspotstore/e/1/e151b821dadfe54a14fa67f5f3fe359bdad10ecc,8\4\8483b2a2a078d3f84dd5518fd57550d93a26f381
 Å
 Q.idea/sonarlint/securityhotspotstore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,2\c\2cabb939da04d3de3a200bf2b575690e1a16316d
+P
+ src/main/java/hellojpa/Team.java,b\f\bfbac6fbffe19ced8136bfd2d23bf11518635622
