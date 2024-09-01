@@ -1,2 +1,6 @@
 
-r	java:S106%"+Replace this use of System.out by a logger.(ýþ ‡üÿÿÿÿ8°Ä½¼š2J$94069f8d-c11b-45b8-aadf-b280868aca5c
+n
+java:S1481#",Remove this unused "members" local variable.(Íãë8¢À†èš2J$564b43ef-103a-4cf8-8516-d2856822adc4
+m	java:S106%"+Replace this use of System.out by a logger.(»¹°Ž8…˜‚Èš2J$7f21c421-3675-4ead-97c2-8866a0ccc0b5
+m	java:S106&"+Replace this use of System.out by a logger.(¨é‹½8ôÆ”Èš2J$f3851b58-3cd1-43c0-b140-3503e49b6eb5
+m	java:S106'"+Replace this use of System.out by a logger.(»¹°Ž8¸¤†èš2J$07bb2d17-9af7-4836-b63c-8166140d0cbd
