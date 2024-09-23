@@ -15,14 +15,13 @@ public class JpaMain {
         tx.begin();
 
         try {
-            Child child1 = new Child();
-            Child child2 = new Child();
 
-            Parent parent = new Parent();
-            parent.addChild(child1);
-            parent.addChild(child2);
+            Member member = new Member();
+            member.setUsername("hi");
+            member.setHomeAddress(new Address("city", "street", "100000"));
+            member.setWorkPeriod(new Period());
 
-            em.persist(parent);
+            em.persist(member);
 
             tx.commit();
         } catch (Exception e) {
